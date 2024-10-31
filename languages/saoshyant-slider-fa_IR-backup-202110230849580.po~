@@ -1,0 +1,1168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Saoshyant Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-02 14:30+0000\n"
+"PO-Revision-Date: 2021-10-23 05:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: framework/slider-metabox.php:43
+msgid "1000px"
+msgstr ""
+
+#: framework/slider-metabox.php:44
+msgid "1100px"
+msgstr ""
+
+#: framework/slider-metabox.php:45
+msgid "1200px"
+msgstr ""
+
+#: framework/slider-metabox.php:46
+msgid "1300px"
+msgstr ""
+
+#: framework/slider-metabox.php:47
+msgid "1400px"
+msgstr ""
+
+#: framework/slider-metabox.php:48
+msgid "1500px"
+msgstr ""
+
+#: framework/slider-metabox.php:49
+msgid "1600px"
+msgstr ""
+
+#: framework/slider-metabox.php:50
+msgid "1700px"
+msgstr ""
+
+#: framework/slider-metabox.php:51
+msgid "1800px"
+msgstr ""
+
+#: framework/slider-metabox.php:52
+msgid "1920px"
+msgstr ""
+
+#: options/fonts/fa-icon.php:474
+msgid "Accessibility Icons"
+msgstr ""
+
+#: elementor-sao-slider.php:336 slider.php:104
+msgid "Active Color"
+msgstr "رنگ فعال"
+
+#: framework/builder-element.php:401
+msgid "Add"
+msgstr "افزودن"
+
+#: framework/builder-element.php:345
+msgid "Add Element"
+msgstr "افزودن المانت"
+
+#: framework/builder.php:47
+msgid "Add Full Template From Library"
+msgstr "افزودن قالب کامل را از کتابخانه  "
+
+#: framework/builder-options-functions.php:264
+msgid "Add Image"
+msgstr ""
+
+#: framework/builder-options-functions.php:53
+msgid "Add Item"
+msgstr ""
+
+#: saoshyant-slider.php:64
+msgid "Add New"
+msgstr "جدید اضافه کنید"
+
+#: framework/builder-column.php:34
+msgid "Add New Element"
+msgstr "افزودن امنت جدید"
+
+#: saoshyant-slider.php:65
+msgid "Add New Slide"
+msgstr "افزودن اسلاید جدید"
+
+#: saoshyant-slider.php:115
+msgid "Add New Slider"
+msgstr "افزودن اسلایدر جدید"
+
+#: saoshyant-slider.php:118
+msgid "Add or remove Sliders"
+msgstr "اسلایدرها را اضافه یا حذف کنید"
+
+#: framework/builder-options-functions.php:48
+msgid "Add Tab"
+msgstr ""
+
+#: framework/slider-metabox.php:71
+msgid "Add the link of the Slide"
+msgstr "افزودن لینک اسلاید"
+
+#: element/button.php:63 element/icon.php:32 element/image.php:34
+#: element/text.php:57
+msgid "Alignment"
+msgstr "تراز"
+
+#: saoshyant-slider.php:111
+msgid "All Sliders"
+msgstr "همه اسلایدرها"
+
+#: saoshyant-slider.php:69
+msgid "All Slides"
+msgstr "همه اسلایدها"
+
+#: element/box.php:92 element/box.php:101 element/box.php:109
+#: element/box.php:123 element/box.php:139 element/button.php:307
+#: element/button.php:316 element/button.php:323 element/button.php:337
+#: element/button.php:353 element/icon.php:99 element/icon.php:108
+#: element/icon.php:115 element/icon.php:129 element/icon.php:145
+#: element/image.php:75 element/image.php:84 element/image.php:91
+#: element/image.php:105 element/image.php:121 element/text.php:367
+#: element/text.php:376 element/text.php:383 element/text.php:397
+#: element/text.php:413 element/text_block.php:178 element/text_block.php:187
+#: element/text_block.php:194 element/text_block.php:208
+#: element/text_block.php:224 framework/builder.php:93
+msgid "Animation"
+msgstr "انیمیشن"
+
+#: elementor-sao-slider.php:227 slider.php:258
+msgid "Animation Pause Time"
+msgstr "انیمیشن - زمان مکث"
+
+#: elementor-sao-slider.php:218 slider.php:250
+msgid "Animation Speed ,Default \"5000\""
+msgstr " انیمیشن - سرعت، پیش فرض \"5000\""
+
+#: elementor-sao-slider.php:357 slider.php:183 options/fonts/flaticon.php:14
+msgid "Arrow"
+msgstr "فلش ها"
+
+#: elementor-sao-slider.php:348 elementor-sao-slider.php:357 slider.php:167
+msgid "Arrow Color"
+msgstr "رنگ فلش ها"
+
+#: slider.php:120
+msgid "Arrow Layout"
+msgstr "طرح بندی فلش ها"
+
+#: slider.php:129
+msgid "Arrow Location"
+msgstr "موقعیت فلش ها"
+
+#: elementor-sao-slider.php:368 slider.php:193
+msgid "Arrow Radius"
+msgstr "گردی حاشیه فلش ها"
+
+#: elementor-sao-slider.php:118 slider.php:111
+msgid "Arrows"
+msgstr "فلش ها"
+
+#: elementor-sao-slider.php:158
+msgid "Arrows Size"
+msgstr ""
+
+#: framework/slider-metabox.php:29
+msgid "Auto"
+msgstr "خودکار"
+
+#: elementor-sao-slider.php:188 slider.php:224
+msgid "Auto Play"
+msgstr "شروع خودکار"
+
+#: elementor-sao-slider.php:348 slider.php:176
+msgid "Background"
+msgstr "پس زمینه"
+
+#: element/box.php:26 element/button.php:126 element/text.php:125
+#: element/text_block.php:52 framework/slider-metabox.php:96
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: options/slider-array.php:189 options/slider-array.php:253
+msgid "Blur"
+msgstr ""
+
+#: element/box.php:63 element/button.php:138 element/image.php:45
+#: element/text.php:135 element/text_block.php:61
+msgid "Border"
+msgstr "کادر دور"
+
+#: elementor-sao-slider.php:389 slider.php:314 element/box.php:80
+#: element/button.php:155 element/image.php:62 element/text.php:152
+#: element/text_block.php:78
+msgid "Border Radius"
+msgstr "کادر دایره ای"
+
+#: elementor-sao-slider.php:108 slider.php:82 element/box.php:129
+#: element/button.php:343 element/icon.php:135 element/image.php:111
+#: element/text.php:403 element/text_block.php:214 options/slider-array.php:161
+#: options/slider-array.php:220
+msgid "Bottom"
+msgstr "پایین"
+
+#: options/slider-array.php:293 options/slider-array.php:298
+msgid "Bottom Left"
+msgstr ""
+
+#: options/slider-array.php:293 options/slider-array.php:298
+msgid "Bottom Right"
+msgstr ""
+
+#: element/box.php:15
+msgid "Box"
+msgstr "جعبه"
+
+#: element/box.php:72 element/button.php:147 element/image.php:54
+#: element/text.php:144 element/text_block.php:70
+msgid "Box Shadow"
+msgstr "سایه جعبه"
+
+#: options/fonts/fa-icon.php:769
+msgid "Brand Icons"
+msgstr ""
+
+#: options/fonts/flaticon.php:177
+msgid "Business Seo Elements"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:551
+msgid "Business Strategy"
+msgstr ""
+
+#: element/button.php:15 element/button.php:28
+msgid "Button"
+msgstr "دکمه"
+
+#: slider.php:200
+msgid "by \"pexel\" example: \"15\""
+msgstr "مقدار \"پیکسل\" مثال \"15\""
+
+#: framework/builder-element.php:292
+msgid "Cancel"
+msgstr "لغو"
+
+#: element/text_block.php:166
+msgid "Capitalize"
+msgstr "بزرگ کردن"
+
+#: element/icon.php:40 options/slider-array.php:83
+msgid "Center"
+msgstr "وسط"
+
+#: saoshyant-slider.php:355
+msgid "Change the Column"
+msgstr ""
+
+#: options/fonts/fa-icon.php:604
+msgid "Chart Icons"
+msgstr ""
+
+#: saoshyant-slider.php:119
+msgid "Choose from the most used Sliders"
+msgstr "از اسلایدرها استفاده انتخاب کنید"
+
+#: framework/builder-options-functions.php:213
+#: framework/builder-options-functions.php:467
+#: framework/builder-options-functions.php:674
+#: framework/builder-options-functions.php:785
+msgid "Choose Icon"
+msgstr ""
+
+#: saoshyant-slider.php:351 framework/slider-metabox.php:132
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+#: framework/builder.php:45
+msgid "Close Full Screen"
+msgstr "بستن تمام صفحه"
+
+#: elementor-sao-slider.php:327 slider.php:98
+msgid "Color"
+msgstr "رنگ"
+
+#: options/fonts/fa-icon.php:611
+msgid "Currency Icons"
+msgstr ""
+
+#: elementor-sao-slider.php:264 slider.php:280 framework/slider-metabox.php:30
+msgid "Custom"
+msgstr "سفارشی"
+
+#. Description of the plugin
+msgid "Custom And Builder Slider"
+msgstr "ساخت و سفارشی اسلایدر"
+
+#: elementor-sao-slider.php:272 slider.php:294
+msgid "Custom Height"
+msgstr "ارتفاع سفارشی"
+
+#: options/slider-array.php:106
+msgid "Dashed"
+msgstr ""
+
+#: elementor-sao-slider.php:131 elementor-sao-slider.php:148
+#: elementor-sao-slider.php:162 slider.php:133 slider.php:144 slider.php:154
+#: element/text_block.php:96
+msgid "Default"
+msgstr "پیش فرض"
+
+#: element/button.php:67 element/icon.php:36 element/image.php:38
+#: element/text.php:61
+msgid "Default \"Center\""
+msgstr "پیش فرض (وسط)"
+
+#: slider.php:316 element/box.php:28 element/box.php:65 element/box.php:74
+#: element/box.php:82 element/button.php:90 element/button.php:97
+#: element/button.php:107 element/button.php:131 element/button.php:140
+#: element/button.php:149 element/button.php:164 element/button.php:173
+#: element/button.php:186 element/button.php:193 element/button.php:211
+#: element/button.php:219 element/button.php:228 element/button.php:236
+#: element/icon.php:51 element/icon.php:57 element/image.php:47
+#: element/image.php:56 element/image.php:64 element/text.php:87
+#: element/text.php:98 element/text.php:119 element/text.php:127
+#: element/text.php:137 element/text.php:146 element/text.php:154
+#: element/text.php:164 element/text.php:173 element/text.php:184
+#: element/text.php:204 element/text.php:214 element/text.php:223
+#: element/text.php:232 element/text_block.php:47 element/text_block.php:54
+#: element/text_block.php:63 element/text_block.php:72
+#: element/text_block.php:80
+msgid "Design"
+msgstr "طراحی"
+
+#: element/box.php:54 framework/slider-metabox.php:38
+#: options/slider-array.php:143
+msgid "diagonal  ↗"
+msgstr "مورب ↗"
+
+#: element/box.php:53 framework/slider-metabox.php:37
+#: options/slider-array.php:142
+msgid "diagonal  ↘"
+msgstr "مورب ↘"
+
+#: options/fonts/fa-icon.php:691
+msgid "Directional Icons"
+msgstr ""
+
+#: saoshyant-slider.php:357
+msgid "Do you agree?"
+msgstr ""
+
+#: options/slider-array.php:105
+msgid "Dotted"
+msgstr ""
+
+#: options/slider-array.php:107
+msgid "Double"
+msgstr ""
+
+#: saoshyant-slider.php:66
+msgid "Edit Slide"
+msgstr "ویرایش اسلاید"
+
+#: saoshyant-slider.php:113
+msgid "Edit Topic"
+msgstr "ویرایش موضوع"
+
+#: element/box.php:106 element/button.php:321 element/icon.php:113
+#: element/image.php:89 element/text.php:381 element/text_block.php:192
+msgid "Effect"
+msgstr "افکت"
+
+#: framework/builder.php:99
+msgid "Element Options:"
+msgstr "گزینه های المانت"
+
+#: saoshyant-slider.php:358
+msgid "Error"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:13
+msgid "Essential Set"
+msgstr ""
+
+#: element/box.php:100 element/button.php:315 element/icon.php:106
+#: element/image.php:83 element/text.php:374 element/text_block.php:185
+msgid "Example \"1000\""
+msgstr "مثال \"1000\""
+
+#: element/box.php:91 element/button.php:306 element/icon.php:98
+#: element/image.php:74 element/text.php:365 element/text_block.php:176
+msgid "Example \"500\""
+msgstr "مثال \"500\""
+
+#: saoshyant-slider.php:146
+msgid "Excerpt"
+msgstr "گزیده"
+
+#: elementor-sao-slider.php:210 slider.php:246 element/box.php:115
+#: element/button.php:329 element/icon.php:121 element/image.php:97
+#: element/text.php:389 element/text_block.php:200
+msgid "Fade"
+msgstr "محو شدن"
+
+#: options/fonts/flaticon_thin.php:668
+msgid "Fashion"
+msgstr ""
+
+#: saoshyant-slider.php:147
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: options/fonts/fa-icon.php:550
+msgid "File Type Icons"
+msgstr ""
+
+#: element/box.php:32 framework/slider-metabox.php:99
+msgid "First"
+msgstr "اولین"
+
+#: options/slider-array.php:126
+msgid "First Color"
+msgstr ""
+
+#: elementor-sao-slider.php:150 slider.php:146
+msgid "Fixed"
+msgstr "ثابت"
+
+#: options/fonts/fa-icon.php:577
+msgid "Form Control Icons"
+msgstr ""
+
+#: framework/builder.php:44
+msgid "Full Screen"
+msgstr "تمام صفحه"
+
+#: framework/builder.php:46 framework/builder.php:47
+msgid "Full Slider"
+msgstr "اسلایدر کامل"
+
+#: options/fonts/fa-icon.php:534
+msgid "Gender Icons"
+msgstr ""
+
+#: elementor-sao-slider.php:52 framework/builder-element.php:188
+#: framework/builder-element.php:266 framework/builder-element.php:322
+#: framework/builder-element.php:379
+msgid "General"
+msgstr "عمومی"
+
+#: options/slider-array.php:108
+msgid "Groove"
+msgstr ""
+
+#: elementor-sao-slider.php:249 slider.php:285 framework/perview.php:116
+msgid "Height"
+msgstr "ارتفاع"
+
+#: framework/builder.php:117
+msgid "Height:"
+msgstr "ارتفاع:"
+
+#: options/slider-array.php:113
+#, fuzzy
+#| msgid "Hide"
+msgid "hidden"
+msgstr "مخفی"
+
+#: options/responsive.php:7
+msgid "Hide in Desktop"
+msgstr ""
+
+#: options/responsive.php:64
+msgid "Hide in Mobile"
+msgstr ""
+
+#: options/responsive.php:24
+msgid "Hide in Tablet"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:616
+msgid "Hipster"
+msgstr ""
+
+#: options/slider-array.php:179 options/slider-array.php:243
+msgid "Horizontal"
+msgstr ""
+
+#: element/box.php:51 framework/slider-metabox.php:35
+#: options/slider-array.php:140
+msgid "horizontal  →"
+msgstr "افقی  →"
+
+#: element/button.php:209 element/text.php:202
+msgid "Hover Background Color"
+msgstr "رنگ پس زمینه در شناور"
+
+#: element/button.php:217 element/text.php:212
+msgid "Hover Border"
+msgstr "کادر دور در شناور"
+
+#: element/button.php:226 element/text.php:221
+msgid "Hover Box Shadow"
+msgstr "سایه در شناور"
+
+#: element/button.php:191 element/text.php:179
+msgid "Hover Text Color"
+msgstr "رنگ متن در شناور"
+
+#: element/text.php:230
+msgid "Hover Text Style"
+msgstr "استایل متن در شناور"
+
+#: element/button.php:35 element/icon.php:15 element/icon.php:23
+#: element/text.php:36
+msgid "Icon"
+msgstr "آیکون"
+
+#: element/button.php:55
+msgid "Icon Alignment"
+msgstr "تراز آیکون"
+
+#: element/button.php:115 element/button.php:201 element/icon.php:49
+#: element/text.php:106 element/text.php:192
+msgid "Icon Color"
+msgstr "آیکون - رنگ"
+
+#: element/icon.php:55
+msgid "Icon Shadow"
+msgstr "آیکون - سایه"
+
+#: element/icon.php:63 element/text.php:284
+msgid "Icon Size"
+msgstr "آیکون - اندازه"
+
+#: element/image.php:16
+msgid "Image"
+msgstr "تصویر"
+
+#: element/box.php:121 element/button.php:335 element/icon.php:127
+#: element/image.php:103 element/text.php:395 element/text_block.php:206
+msgid "Initial Position"
+msgstr "موقعیت اولیه"
+
+#: options/slider-array.php:110 options/slider-array.php:277
+msgid "Inset"
+msgstr ""
+
+#: options/fonts/flaticon.php:306
+msgid "Interface"
+msgstr ""
+
+#: element/button.php:294 element/text.php:355
+msgid "italic"
+msgstr "حروف کج"
+
+#: elementor-sao-slider.php:165 slider.php:157
+msgid "Large"
+msgstr "بزرگ"
+
+#: elementor-sao-slider.php:242 slider.php:140 slider.php:288 slider.php:298
+#: slider.php:306 element/button.php:57 element/button.php:65
+#: element/button.php:76 element/icon.php:35 element/image.php:36
+#: element/text.php:59 element/text.php:70 element/text_block.php:32
+msgid "Layout"
+msgstr "طرح بندی"
+
+#: element/box.php:128 element/box.php:130 element/button.php:342
+#: element/button.php:344 element/icon.php:39 element/icon.php:41
+#: element/icon.php:134 element/icon.php:136 element/image.php:110
+#: element/image.php:112 element/text.php:402 element/text_block.php:213
+#: element/text_block.php:215 options/slider-array.php:82
+#: options/slider-array.php:84 options/slider-array.php:89
+#: options/slider-array.php:90 options/slider-array.php:156
+#: options/slider-array.php:166 options/slider-array.php:215
+#: options/slider-array.php:225
+msgid "Left"
+msgstr "چپ"
+
+#: options/slider-array.php:318
+msgid "Left and Right"
+msgstr ""
+
+#: framework/builder.php:104
+msgid "Left:"
+msgstr "چپ:"
+
+#: element/button.php:279 element/text.php:340
+msgid "Line-Through"
+msgstr "از طریق خط"
+
+#: element/button.php:47 element/text.php:43 framework/slider-metabox.php:66
+msgid "Link"
+msgstr "لینک"
+
+#: elementor-sao-slider.php:132 slider.php:134
+msgid "Location 1"
+msgstr "موقعیت 1"
+
+#: elementor-sao-slider.php:133 slider.php:135
+msgid "Location 2"
+msgstr "موقعیت 2"
+
+#: elementor-sao-slider.php:134 slider.php:136
+msgid "Location 3"
+msgstr "موقعیت 3"
+
+#: elementor-sao-slider.php:197 slider.php:232
+msgid "Loop"
+msgstr ""
+
+#: element/text.php:28
+msgid "Lorem ipsum dolor sit amet"
+msgstr "لورم ایپسوم متن ساختگی با تولید"
+
+#: element/text_block.php:23
+msgid "Lorem ipsum dolor sit amet consectetuer adipiscing elit "
+msgstr "استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله"
+
+#: element/text_block.php:165
+msgid "Lowercase"
+msgstr "حروف کوچک"
+
+#: element/button.php:111 element/button.php:197 element/text.php:102
+#: element/text.php:188
+msgid "Main Text Color"
+msgstr "متن اصلی - رنگ"
+
+#: framework/slider-metabox.php:77
+msgid "Max Width Slider Details"
+msgstr "حداکثر پهنای جزئیات اسلایدر"
+
+#: options/fonts/fa-icon.php:960
+msgid "Medical Icons"
+msgstr ""
+
+#: elementor-sao-slider.php:164 slider.php:156
+msgid "Medium"
+msgstr "متوسط"
+
+#: options/fonts/metrizeicon.php:14
+msgid "Metrize"
+msgstr ""
+
+#: element/box.php:114 element/button.php:328 element/icon.php:120
+#: element/image.php:96 element/text.php:388 element/text_block.php:199
+msgid "Move"
+msgstr "انتقال"
+
+#: options/fonts/flaticon.php:122
+msgid "Multi Media"
+msgstr ""
+
+#: saoshyant-slider.php:356
+msgid "Name already exist!"
+msgstr ""
+
+#: saoshyant-slider.php:354
+msgid "Name is empty!"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:810
+msgid "Network"
+msgstr ""
+
+#: saoshyant-slider.php:67
+msgid "New Slide"
+msgstr "اسلاید جدید"
+
+#: saoshyant-slider.php:116
+msgid "New Topic Name"
+msgstr "نام موضوع جدید"
+
+#: saoshyant-slider.php:71
+msgid "No slides found"
+msgstr "هیچ اسلاید یافت نشد، "
+
+#: saoshyant-slider.php:72
+msgid "No slides found in trash"
+msgstr "اسلایدها در سطل زباله یافت نشد"
+
+#: element/box.php:113 element/button.php:277 element/button.php:292
+#: element/button.php:327 element/icon.php:119 element/image.php:95
+#: element/text.php:338 element/text.php:353 element/text.php:387
+#: element/text_block.php:163 element/text_block.php:198
+#: options/slider-array.php:112
+msgid "None"
+msgstr "هیچ یک"
+
+#: element/button.php:293 element/text.php:354
+msgid "Normal"
+msgstr "معمولی"
+
+#: elementor-sao-slider.php:59 slider.php:46
+msgid "Number of Posts to show"
+msgstr "تعداد نوشته ها برای نمایش"
+
+#: element/button.php:295 element/text.php:356
+msgid "oblique"
+msgstr "منحرف"
+
+#: options/fonts/flaticon.php:254
+msgid "Office"
+msgstr ""
+
+#: elementor-sao-slider.php:149 slider.php:145
+msgid "On Hover"
+msgstr "در شناور"
+
+#: element/text.php:171
+msgid "on Hover Text Style"
+msgstr "استایل متن در شناور"
+
+#: element/button.php:41 element/text.php:50
+msgid "Open in new window"
+msgstr "باز کردن در پنجره جدید"
+
+#: framework/builder-element.php:220
+msgid "Options"
+msgstr "گزینه ها"
+
+#: element/box.php:47 framework/slider-metabox.php:114
+#: options/slider-array.php:136
+msgid "Orientation"
+msgstr "جهت"
+
+#: options/slider-array.php:276
+msgid "Outline"
+msgstr ""
+
+#: options/slider-array.php:111
+msgid "Outset"
+msgstr ""
+
+#: element/button.php:278 element/text.php:339
+msgid "Overline"
+msgstr "خط فرعی"
+
+#: elementor-sao-slider.php:283 slider.php:304 element/button.php:74
+#: element/text.php:68 element/text_block.php:29 options/responsive.php:35
+#: options/responsive.php:72
+msgid "Padding"
+msgstr "فاصله"
+
+#: element/text_block.php:31
+msgid "Padding around the entire ,Default \"0\""
+msgstr "فاصله در اطراف کل، پیش فرض \"0\""
+
+#: options/responsive.php:38 options/responsive.php:75
+msgid "Padding around the entire row,Default \"0\""
+msgstr ""
+
+#: framework/builder.php:16
+msgid "Page Builder"
+msgstr "صفحه ساز"
+
+#: elementor-sao-slider.php:93 slider.php:64
+msgid "Pager"
+msgstr "دکمه های صفحه بندی"
+
+#: elementor-sao-slider.php:327 elementor-sao-slider.php:336 slider.php:88
+msgid "Pager Color"
+msgstr "رنگ صفحه بندی"
+
+#: saoshyant-slider.php:112
+msgid "Parent Slider"
+msgstr "مادر اسلایدرها"
+
+#: options/fonts/fa-icon.php:590
+msgid "Payment Icons"
+msgstr ""
+
+#: framework/builder.php:93
+msgid "Play"
+msgstr "شروع"
+
+#: saoshyant-slider.php:110
+msgid "Popular Sliders"
+msgstr "اسلایدرهای محبوب"
+
+#: elementor-sao-slider.php:103 slider.php:75
+msgid "Position Pager"
+msgstr "موقعیت صفحه بندی"
+
+#: framework/slider-metabox.php:39 options/slider-array.php:144
+msgid "radial  ○"
+msgstr "دایره ای ○"
+
+#: saoshyant-slider.php:352
+msgid "Remove"
+msgstr ""
+
+#: framework/slider-metabox.php:142
+msgid "Remove Image"
+msgstr "حذف تصویر"
+
+#: options/responsive.php:9 options/responsive.php:17 options/responsive.php:26
+#: options/responsive.php:37 options/responsive.php:48
+#: options/responsive.php:60 options/responsive.php:66
+#: options/responsive.php:74 options/responsive.php:83
+msgid "Responsive"
+msgstr ""
+
+#: options/responsive.php:58 options/responsive.php:81
+msgid "Responsive in Mobile"
+msgstr ""
+
+#: options/responsive.php:15 options/responsive.php:46
+msgid "Responsive in Tablet"
+msgstr ""
+
+#: options/slider-array.php:109
+msgid "Ridge"
+msgstr ""
+
+#: element/box.php:128 element/box.php:130 element/button.php:342
+#: element/button.php:344 element/icon.php:39 element/icon.php:41
+#: element/icon.php:134 element/icon.php:136 element/image.php:110
+#: element/image.php:112 element/text.php:404 element/text_block.php:213
+#: element/text_block.php:215 options/slider-array.php:82
+#: options/slider-array.php:84 options/slider-array.php:89
+#: options/slider-array.php:90 options/slider-array.php:156
+#: options/slider-array.php:166 options/slider-array.php:215
+#: options/slider-array.php:225
+msgid "Right"
+msgstr "راست"
+
+#: framework/builder.php:104
+msgid "Right:"
+msgstr "راست:"
+
+#. Name of the plugin
+#: elementor_category.php:34 slider.php:14
+msgid "Saoshyant Slider"
+msgstr "اسلایدر ساز سوشیانت"
+
+#. Author of the plugin
+msgid "Saoshyant-Web"
+msgstr ""
+
+#: framework/builder.php:46
+msgid "Save Full Template to the library"
+msgstr "قالب کامل را به کتابخانه ذخیره کنید"
+
+#: element/box.php:116 element/box.php:136 element/button.php:330
+#: element/button.php:350 element/icon.php:122 element/icon.php:142
+#: element/image.php:98 element/image.php:118 element/text.php:390
+#: element/text.php:410 element/text_block.php:201 element/text_block.php:221
+msgid "Scale"
+msgstr "مقیاس"
+
+#: framework/builder-options-functions.php:785
+msgid "Search icons"
+msgstr ""
+
+#: saoshyant-slider.php:109
+msgid "Search Sliders"
+msgstr "جستجو در اسلایدرها"
+
+#: saoshyant-slider.php:70
+msgid "Search Slides"
+msgstr "جستجو اسلایدها"
+
+#: element/box.php:37 framework/slider-metabox.php:104
+msgid "Second"
+msgstr "دومین"
+
+#: options/slider-array.php:131
+msgid "Second Color"
+msgstr ""
+
+#: framework/builder-options-functions.php:172
+msgid "Select"
+msgstr ""
+
+#: saoshyant-slider.php:117
+msgid "Separate Sliders with commas"
+msgstr "اسلایدرها را با کاما جدا کنید"
+
+#: framework/builder-options-functions.php:836
+msgid "Set Icon"
+msgstr ""
+
+#: slider.php:150 slider.php:321 element/button.php:252 element/icon.php:74
+#: element/text.php:268 element/text.php:315 element/text_block.php:117
+#: element/text_block.php:139
+msgid "Size"
+msgstr "اندازه"
+
+#: elementor-sao-slider.php:209 saoshyant-slider.php:63 slider.php:245
+msgid "Slide"
+msgstr "اسلاید"
+
+#: elementor-sao-slider.php:68 elementor-sao-slider.php:86
+#: saoshyant-slider.php:108 slider.php:55 slider.php:67 slider.php:77
+#: slider.php:93 slider.php:113 slider.php:125 slider.php:172 slider.php:198
+#: slider.php:207 slider.php:217 slider.php:226 slider.php:234 slider.php:241
+#: slider.php:253 slider.php:260
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: framework/slider-metabox.php:130
+msgid "Slider Background Image"
+msgstr "تصویر پس زمینه"
+
+#: elementor-sao-slider.php:205 slider.php:239
+msgid "Slider Effect"
+msgstr "افکت اسلایدر"
+
+#: framework/builder-column.php:35 framework/builder-element.php:135
+msgid "Slider Element"
+msgstr "المنت اسلایدر"
+
+#: saoshyant-slider.php:107 saoshyant-slider.php:120
+msgid "Sliders"
+msgstr "اسلایدرها  "
+
+#: saoshyant-slider.php:62 saoshyant-slider.php:74
+msgid "Slides"
+msgstr "اسلایدها"
+
+#: elementor-sao-slider.php:163 slider.php:155
+msgid "Small"
+msgstr "کوچک"
+
+#: options/slider-array.php:104
+msgid "Solid"
+msgstr ""
+
+#: options/fonts/fa-icon.php:570
+msgid "Spinner Icons"
+msgstr ""
+
+#: options/slider-array.php:258
+msgid "Spread"
+msgstr ""
+
+#: elementor-sao-slider.php:318 options/slider-array.php:231
+msgid "Style"
+msgstr ""
+
+#: options/slider-array.php:94
+msgid "Style 1"
+msgstr ""
+
+#: options/slider-array.php:95
+msgid "Style 2:Top Border inset"
+msgstr ""
+
+#: options/slider-array.php:96
+msgid "Style 3:Bottom Border inset"
+msgstr ""
+
+#: options/slider-array.php:97 options/slider-array.php:98
+msgid "Style 4:Left Border inset"
+msgstr ""
+
+#: options/slider-array.php:97 options/slider-array.php:98
+msgid "Style 5:Right Border inset"
+msgstr ""
+
+#: options/slider-array.php:99
+msgid "Style 6:Icon Background color"
+msgstr ""
+
+#: options/slider-array.php:100
+msgid "Style 7:none boxed"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:395
+msgid "Tech Support"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:497
+msgid "Technology"
+msgstr ""
+
+#: element/button.php:27 element/text.php:16 element/text.php:27
+msgid "Text"
+msgstr "متن"
+
+#: element/text_block.php:15
+msgid "Text Block"
+msgstr "بلوک متن پیرشفته"
+
+#: element/button.php:102 element/text.php:93
+msgid "Text Color"
+msgstr "متن - رنگ"
+
+#: options/fonts/fa-icon.php:640
+msgid "Text Editor Icons"
+msgstr ""
+
+#: element/button.php:271 element/text.php:332
+msgid "Text Font Decoration"
+msgstr "دکوراسیون فونت متن"
+
+#: element/text.php:308 element/text_block.php:133
+msgid "Text Font Line Height"
+msgstr "متن - ارتفاع خط"
+
+#: element/button.php:245 element/text.php:261 element/text_block.php:111
+msgid "Text Font Size"
+msgstr "متن - اندازه فونت"
+
+#: element/button.php:286 element/text.php:347
+msgid "Text Font Style"
+msgstr "استایل فونت متن"
+
+#: element/text.php:239 element/text_block.php:90
+msgid "Text Font Weight"
+msgstr "متن - وزن فونت"
+
+#: element/text.php:117 element/text_block.php:45
+msgid "Text Shadow"
+msgstr "سایه متن"
+
+#: element/text.php:85 element/text.php:162
+msgid "Text Style"
+msgstr "استایل متن"
+
+#: element/text_block.php:157
+msgid "Text Transform"
+msgstr "متن - تبدیل"
+
+#: element/box.php:42 framework/slider-metabox.php:109
+msgid "Third"
+msgstr "سوم"
+
+#: element/box.php:97 element/button.php:312 element/icon.php:104
+#: element/image.php:80 element/text.php:372 element/text_block.php:183
+msgid "Time to end Effect"
+msgstr "زمان شروع افکت"
+
+#: element/box.php:88 element/button.php:303 element/icon.php:95
+#: element/image.php:71 element/text.php:363 element/text_block.php:174
+msgid "Time to start Effect"
+msgstr "زمان شروع افکت"
+
+#: elementor-sao-slider.php:176 slider.php:204
+msgid "Timer"
+msgstr "زمان سنج"
+
+#: elementor-sao-slider.php:378 slider.php:212
+msgid "Timer Color"
+msgstr "رنگ زمان سنج"
+
+#: slider.php:40
+msgid "Title"
+msgstr ""
+
+#: elementor-sao-slider.php:107 slider.php:81 element/box.php:127
+#: element/button.php:341 element/icon.php:133 element/image.php:109
+#: element/text.php:401 element/text_block.php:212 options/slider-array.php:151
+#: options/slider-array.php:210
+msgid "Top"
+msgstr "بالا"
+
+#: options/slider-array.php:313
+msgid "Top and Bottom"
+msgstr ""
+
+#: options/slider-array.php:283 options/slider-array.php:288
+msgid "Top Left"
+msgstr ""
+
+#: options/slider-array.php:283 options/slider-array.php:288
+msgid "Top Right"
+msgstr ""
+
+#: framework/builder.php:101
+msgid "Top:"
+msgstr "بالا:"
+
+#: options/fonts/fa-icon.php:513
+msgid "Transportation Icons"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:772
+msgid "Travel"
+msgstr ""
+
+#: element/button.php:248 element/button.php:273 element/button.php:288
+#: element/icon.php:65 element/text.php:242 element/text.php:263
+#: element/text.php:286 element/text.php:311 element/text.php:334
+#: element/text.php:349 element/text_block.php:92 element/text_block.php:113
+#: element/text_block.php:135 element/text_block.php:159
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: element/button.php:280 element/text.php:341
+msgid "Underline"
+msgstr "زیر خط دار"
+
+#: slider.php:327 element/button.php:258 element/icon.php:80
+#: element/text.php:274 element/text.php:321 element/text_block.php:123
+#: element/text_block.php:145 options/slider-array.php:171
+#: options/slider-array.php:195 options/slider-array.php:263
+#: options/slider-array.php:303 options/slider-array.php:323
+msgid "Unit"
+msgstr "واحد"
+
+#: framework/builder-element.php:293
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: saoshyant-slider.php:114
+msgid "Update Slider"
+msgstr "به روزرسانی اسلایدرها"
+
+#: framework/builder-options-functions.php:704 framework/slider-metabox.php:132
+msgid "Upload"
+msgstr "آپلود"
+
+#: element/image.php:25
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#: element/text_block.php:164
+msgid "Uppercase"
+msgstr "حروف بزرگ"
+
+#: saoshyant-slider.php:353 framework/slider-metabox.php:132
+msgid "Use This Image"
+msgstr "از این تصویر استفاده کنید"
+
+#: options/slider-array.php:184 options/slider-array.php:248
+msgid "Vertical"
+msgstr ""
+
+#: element/box.php:52 framework/slider-metabox.php:36
+#: options/slider-array.php:141
+msgid "vertical  ↓"
+msgstr "عمودی  ↓"
+
+#: options/fonts/fa-icon.php:746
+msgid "Video Player Icons"
+msgstr ""
+
+#: saoshyant-slider.php:68
+msgid "View Slide"
+msgstr "مشاهده اسلاید"
+
+#: options/fonts/fa-icon.php:21
+msgid "Web Application Icons"
+msgstr ""
+
+#: options/fonts/flaticon_thin.php:720
+msgid "Web Design"
+msgstr ""
+
+#: framework/perview.php:107
+msgid "Width"
+msgstr "عرض"
+
+#: framework/builder.php:108
+msgid "Width:"
+msgstr "پهناه:"

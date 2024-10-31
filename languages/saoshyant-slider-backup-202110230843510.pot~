@@ -1,0 +1,941 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Saoshyant Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-02 14:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.3.2"
+
+#: saoshyant-slider.php:45 saoshyant-slider.php:57
+msgid "Slides"
+msgstr ""
+
+#: saoshyant-slider.php:46 slider.php:219
+msgid "Slide"
+msgstr ""
+
+#: saoshyant-slider.php:47
+msgid "Add New"
+msgstr ""
+
+#: saoshyant-slider.php:48
+msgid "Add New Slide"
+msgstr ""
+
+#: saoshyant-slider.php:49
+msgid "Edit Slide"
+msgstr ""
+
+#: saoshyant-slider.php:50
+msgid "New Slide"
+msgstr ""
+
+#: saoshyant-slider.php:51
+msgid "View Slide"
+msgstr ""
+
+#: saoshyant-slider.php:52
+msgid "All Slides"
+msgstr ""
+
+#: saoshyant-slider.php:53
+msgid "Search Slides"
+msgstr ""
+
+#: saoshyant-slider.php:54
+msgid "No slides found"
+msgstr ""
+
+#: saoshyant-slider.php:55
+msgid "No slides found in trash"
+msgstr ""
+
+#: saoshyant-slider.php:84 saoshyant-slider.php:97
+msgid "Sliders"
+msgstr ""
+
+#: saoshyant-slider.php:85 slider.php:47 slider.php:58 slider.php:74
+#: slider.php:94 slider.php:106 slider.php:153 slider.php:179 slider.php:188
+#: slider.php:198 slider.php:207 slider.php:215 slider.php:228 slider.php:235
+msgid "Slider"
+msgstr ""
+
+#: saoshyant-slider.php:86
+msgid "Search Sliders"
+msgstr ""
+
+#: saoshyant-slider.php:87
+msgid "Popular Sliders"
+msgstr ""
+
+#: saoshyant-slider.php:88
+msgid "All Sliders"
+msgstr ""
+
+#: saoshyant-slider.php:89
+msgid "Parent Slider"
+msgstr ""
+
+#: saoshyant-slider.php:90
+msgid "Edit Topic"
+msgstr ""
+
+#: saoshyant-slider.php:91
+msgid "Update Slider"
+msgstr ""
+
+#: saoshyant-slider.php:92
+msgid "Add New Slider"
+msgstr ""
+
+#: saoshyant-slider.php:93
+msgid "New Topic Name"
+msgstr ""
+
+#: saoshyant-slider.php:94
+msgid "Separate Sliders with commas"
+msgstr ""
+
+#: saoshyant-slider.php:95
+msgid "Add or remove Sliders"
+msgstr ""
+
+#: saoshyant-slider.php:96
+msgid "Choose from the most used Sliders"
+msgstr ""
+
+#: saoshyant-slider.php:116
+msgid "Excerpt"
+msgstr ""
+
+#: saoshyant-slider.php:117
+msgid "Featured Image"
+msgstr ""
+
+#. Name of the plugin
+#: slider.php:6
+msgid "Saoshyant Slider"
+msgstr ""
+
+#: slider.php:25
+msgid "Number of Posts to show"
+msgstr ""
+
+#: slider.php:34
+msgid "Category"
+msgstr ""
+
+#: slider.php:36
+msgid "Select \"Custom Slides\""
+msgstr ""
+
+#: slider.php:44
+msgid "Pager"
+msgstr ""
+
+#: slider.php:56
+msgid "Position Pager"
+msgstr ""
+
+#: slider.php:62 element/box.php:120 element/button.php:559
+#: element/icon.php:225 element/image.php:108 element/text.php:516
+#: element/text_block.php:310
+msgid "Top"
+msgstr ""
+
+#: slider.php:63 element/box.php:122 element/button.php:561
+#: element/icon.php:227 element/image.php:110 element/text.php:518
+#: element/text_block.php:312
+msgid "Bottom"
+msgstr ""
+
+#: slider.php:69
+msgid "Pager Color"
+msgstr ""
+
+#: slider.php:79
+msgid "Color"
+msgstr ""
+
+#: slider.php:85
+msgid "Active Color"
+msgstr ""
+
+#: slider.php:92
+msgid "Arrows"
+msgstr ""
+
+#: slider.php:101
+msgid "Arrow Layout"
+msgstr ""
+
+#: slider.php:110
+msgid "Arrow Location"
+msgstr ""
+
+#: slider.php:114 slider.php:125 slider.php:135 element/text_block.php:97
+#: framework/builder.php:151
+msgid "Default"
+msgstr ""
+
+#: slider.php:115
+msgid "Location 1"
+msgstr ""
+
+#: slider.php:116
+msgid "Location 2"
+msgstr ""
+
+#: slider.php:117
+msgid "Location 3"
+msgstr ""
+
+#: slider.php:121 slider.php:263 slider.php:273 slider.php:281
+#: element/button.php:59 element/button.php:70 element/icon.php:28
+#: element/image.php:35 element/text.php:51 element/text.php:62
+#: element/text_block.php:25
+msgid "Layout"
+msgstr ""
+
+#: slider.php:126
+msgid "On Hover"
+msgstr ""
+
+#: slider.php:127
+msgid "Fixed"
+msgstr ""
+
+#: slider.php:131 slider.php:300 element/button.php:334 element/button.php:431
+#: element/button.php:456 element/button.php:481 element/button.php:506
+#: element/icon.php:67 element/icon.php:92 element/icon.php:117
+#: element/icon.php:142 element/icon.php:167 element/text.php:269
+#: element/text.php:316 element/text.php:388 element/text.php:413
+#: element/text.php:438 element/text.php:463 element/text_block.php:118
+#: element/text_block.php:140 element/text_block.php:182
+#: element/text_block.php:207 element/text_block.php:232
+#: element/text_block.php:257
+msgid "Size"
+msgstr ""
+
+#: slider.php:136
+msgid "Small"
+msgstr ""
+
+#: slider.php:137
+msgid "Medium"
+msgstr ""
+
+#: slider.php:138
+msgid "Large"
+msgstr ""
+
+#: slider.php:148
+msgid "Arrow Color"
+msgstr ""
+
+#: slider.php:157
+msgid "Background"
+msgstr ""
+
+#: slider.php:164
+msgid "Arrow"
+msgstr ""
+
+#: slider.php:174
+msgid "Arrow Radius"
+msgstr ""
+
+#: slider.php:181
+msgid "by \"pexel\" example: \"15\""
+msgstr ""
+
+#: slider.php:185
+msgid "Timer"
+msgstr ""
+
+#: slider.php:193
+msgid "Timer Color"
+msgstr ""
+
+#: slider.php:205
+msgid "Auto Play"
+msgstr ""
+
+#: slider.php:213
+msgid "Slider Effect"
+msgstr ""
+
+#: slider.php:220 element/box.php:108 element/button.php:547
+#: element/icon.php:213 element/image.php:96 element/text.php:504
+#: element/text_block.php:298
+msgid "Fade"
+msgstr ""
+
+#: slider.php:225
+msgid "Animation Speed ,Default \"5000\""
+msgstr ""
+
+#: slider.php:233
+msgid "Animation Pause Time"
+msgstr ""
+
+#: slider.php:255 framework/slider-metabox.php:29
+msgid "Custom"
+msgstr ""
+
+#: slider.php:260 framework/perview.php:180
+msgid "Height"
+msgstr ""
+
+#: slider.php:269
+msgid "Custom Height"
+msgstr ""
+
+#: slider.php:279 element/button.php:68 element/text.php:60
+#: element/text_block.php:22
+msgid "Padding"
+msgstr ""
+
+#: slider.php:294 element/box.php:73 element/button.php:178
+#: element/image.php:61 element/text.php:144 element/text_block.php:71
+msgid "Border Radius"
+msgstr ""
+
+#: slider.php:296 element/box.php:21 element/box.php:58 element/box.php:67
+#: element/box.php:75 element/button.php:89 element/button.php:96
+#: element/button.php:106 element/button.php:130 element/button.php:163
+#: element/button.php:172 element/button.php:187 element/button.php:196
+#: element/button.php:209 element/button.php:216 element/button.php:222
+#: element/button.php:240 element/button.php:272 element/button.php:281
+#: element/button.php:289 element/icon.php:44 element/icon.php:50
+#: element/image.php:46 element/image.php:55 element/image.php:63
+#: element/text.php:79 element/text.php:90 element/text.php:111
+#: element/text.php:119 element/text.php:129 element/text.php:138
+#: element/text.php:146 element/text.php:156 element/text.php:165
+#: element/text.php:176 element/text.php:196 element/text.php:206
+#: element/text.php:215 element/text.php:224 element/text_block.php:40
+#: element/text_block.php:47 element/text_block.php:56
+#: element/text_block.php:65 element/text_block.php:73
+msgid "Design"
+msgstr ""
+
+#: slider.php:306 element/button.php:340 element/button.php:437
+#: element/button.php:462 element/button.php:487 element/button.php:512
+#: element/icon.php:73 element/icon.php:98 element/icon.php:123
+#: element/icon.php:148 element/icon.php:173 element/text.php:275
+#: element/text.php:322 element/text.php:394 element/text.php:419
+#: element/text.php:444 element/text.php:469 element/text_block.php:124
+#: element/text_block.php:146 element/text_block.php:188
+#: element/text_block.php:213 element/text_block.php:238
+#: element/text_block.php:263
+msgid "Unit"
+msgstr ""
+
+#: element/box.php:8
+msgid "Box"
+msgstr ""
+
+#: element/box.php:19 element/button.php:125 element/text.php:117
+#: element/text_block.php:45 framework/slider-metabox.php:115
+msgid "Background Color"
+msgstr ""
+
+#: element/box.php:25 element/button.php:134 element/button.php:244
+#: framework/slider-metabox.php:118
+msgid "First"
+msgstr ""
+
+#: element/box.php:30 element/button.php:139 element/button.php:249
+#: framework/slider-metabox.php:123
+msgid "Second"
+msgstr ""
+
+#: element/box.php:35 framework/slider-metabox.php:128
+msgid "Third"
+msgstr ""
+
+#: element/box.php:40 element/button.php:145 element/button.php:255
+#: framework/slider-metabox.php:133
+msgid "Orientation"
+msgstr ""
+
+#: element/box.php:44 element/button.php:149 element/button.php:259
+#: framework/slider-metabox.php:34
+msgid "horizontal  →"
+msgstr ""
+
+#: element/box.php:45 element/button.php:150 element/button.php:260
+#: framework/slider-metabox.php:35
+msgid "vertical  ↓"
+msgstr ""
+
+#: element/box.php:46 element/button.php:151 element/button.php:261
+#: framework/slider-metabox.php:36
+msgid "diagonal  ↘"
+msgstr ""
+
+#: element/box.php:47 element/button.php:152 element/button.php:262
+#: framework/slider-metabox.php:37
+msgid "diagonal  ↗"
+msgstr ""
+
+#: element/box.php:56 element/button.php:161 element/image.php:44
+#: element/text.php:127 element/text_block.php:54
+msgid "Border"
+msgstr ""
+
+#: element/box.php:65 element/button.php:170 element/image.php:53
+#: element/text.php:136 element/text_block.php:63
+msgid "Box Shadow"
+msgstr ""
+
+#: element/box.php:81 element/button.php:521 element/icon.php:187
+#: element/image.php:70 element/text.php:478 element/text_block.php:272
+msgid "Time to start Effect"
+msgstr ""
+
+#: element/box.php:84 element/button.php:524 element/icon.php:190
+#: element/image.php:73 element/text.php:480 element/text_block.php:274
+msgid "Example \"500\""
+msgstr ""
+
+#: element/box.php:85 element/box.php:94 element/box.php:102
+#: element/box.php:116 element/box.php:132 element/button.php:525
+#: element/button.php:534 element/button.php:541 element/button.php:555
+#: element/button.php:571 element/icon.php:191 element/icon.php:200
+#: element/icon.php:207 element/icon.php:221 element/icon.php:237
+#: element/image.php:74 element/image.php:83 element/image.php:90
+#: element/image.php:104 element/image.php:120 element/text.php:482
+#: element/text.php:491 element/text.php:498 element/text.php:512
+#: element/text.php:528 element/text_block.php:276 element/text_block.php:285
+#: element/text_block.php:292 element/text_block.php:306
+#: element/text_block.php:322 framework/builder.php:116
+msgid "Animation"
+msgstr ""
+
+#: element/box.php:90 element/button.php:530 element/icon.php:196
+#: element/image.php:79 element/text.php:487 element/text_block.php:281
+msgid "Time to end Effect"
+msgstr ""
+
+#: element/box.php:93 element/button.php:533 element/icon.php:198
+#: element/image.php:82 element/text.php:489 element/text_block.php:283
+msgid "Example \"1000\""
+msgstr ""
+
+#: element/box.php:99 element/button.php:539 element/icon.php:205
+#: element/image.php:88 element/text.php:496 element/text_block.php:290
+msgid "Effect"
+msgstr ""
+
+#: element/box.php:106 element/button.php:381 element/button.php:396
+#: element/button.php:411 element/button.php:545 element/icon.php:211
+#: element/image.php:94 element/text.php:339 element/text.php:354
+#: element/text.php:369 element/text.php:502 element/text_block.php:164
+#: element/text_block.php:296
+msgid "None"
+msgstr ""
+
+#: element/box.php:107 element/button.php:546 element/icon.php:212
+#: element/image.php:95 element/text.php:503 element/text_block.php:297
+msgid "Move"
+msgstr ""
+
+#: element/box.php:109 element/box.php:129 element/button.php:548
+#: element/button.php:568 element/icon.php:214 element/icon.php:234
+#: element/image.php:97 element/image.php:117 element/text.php:505
+#: element/text.php:525 element/text_block.php:299 element/text_block.php:319
+msgid "Scale"
+msgstr ""
+
+#: element/box.php:114 element/button.php:553 element/icon.php:219
+#: element/image.php:102 element/text.php:510 element/text_block.php:304
+msgid "Initial Position"
+msgstr ""
+
+#: element/box.php:121 element/box.php:123 element/button.php:560
+#: element/button.php:562 element/icon.php:32 element/icon.php:34
+#: element/icon.php:226 element/icon.php:228 element/image.php:109
+#: element/image.php:111 element/text.php:519 element/text_block.php:311
+#: element/text_block.php:313
+msgid "Right"
+msgstr ""
+
+#: element/box.php:121 element/box.php:123 element/button.php:560
+#: element/button.php:562 element/icon.php:32 element/icon.php:34
+#: element/icon.php:226 element/icon.php:228 element/image.php:109
+#: element/image.php:111 element/text.php:517 element/text_block.php:311
+#: element/text_block.php:313
+msgid "Left"
+msgstr ""
+
+#: element/button.php:8 element/button.php:21
+msgid "Button"
+msgstr ""
+
+#: element/button.php:20 element/text.php:8 element/text.php:19
+msgid "Text"
+msgstr ""
+
+#: element/button.php:28 element/icon.php:8 element/icon.php:16
+#: element/text.php:28
+msgid "Icon"
+msgstr ""
+
+#: element/button.php:34 element/text.php:42
+msgid "Open in new window"
+msgstr ""
+
+#: element/button.php:40 element/image.php:24 element/text.php:35
+#: framework/slider-metabox.php:85
+msgid "Link"
+msgstr ""
+
+#: element/button.php:57 element/icon.php:25 element/image.php:33
+#: element/text.php:49
+msgid "Alignment"
+msgstr ""
+
+#: element/button.php:61 element/icon.php:29 element/image.php:37
+#: element/text.php:53
+msgid "Default \"Center\""
+msgstr ""
+
+#: element/button.php:101 element/text.php:85
+msgid "Text Color"
+msgstr ""
+
+#: element/button.php:110 element/button.php:226 element/text.php:94
+#: element/text.php:180
+msgid "Main Text Color"
+msgstr ""
+
+#: element/button.php:114 element/button.php:230 element/icon.php:42
+#: element/text.php:98 element/text.php:184
+msgid "Icon Color"
+msgstr ""
+
+#: element/button.php:220 element/text.php:171
+msgid "Hover Text Color"
+msgstr ""
+
+#: element/button.php:238 element/text.php:194
+msgid "Hover Background Color"
+msgstr ""
+
+#: element/button.php:270 element/text.php:204
+msgid "Hover Border"
+msgstr ""
+
+#: element/button.php:279 element/text.php:213
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: element/button.php:295 element/text.php:230 element/text_block.php:81
+msgid "Text Font Family"
+msgstr ""
+
+#: element/button.php:297 element/button.php:308 element/button.php:330
+#: element/button.php:353 element/button.php:377 element/button.php:392
+#: element/button.php:407 element/icon.php:58 element/icon.php:88
+#: element/icon.php:113 element/icon.php:138 element/icon.php:163
+#: element/text.php:232 element/text.php:243 element/text.php:264
+#: element/text.php:287 element/text.php:312 element/text.php:335
+#: element/text.php:350 element/text.php:365 element/text_block.php:83
+#: element/text_block.php:93 element/text_block.php:114
+#: element/text_block.php:136 element/text_block.php:160
+msgid "Typography"
+msgstr ""
+
+#: element/button.php:305 element/text.php:240 element/text_block.php:91
+msgid "Text Font Weight"
+msgstr ""
+
+#: element/button.php:327 element/text.php:262 element/text_block.php:112
+msgid "Text Font Size"
+msgstr ""
+
+#: element/button.php:351 element/icon.php:56 element/text.php:285
+msgid "Icon Size"
+msgstr ""
+
+#: element/button.php:375 element/text.php:333
+msgid "Text Font Decoration"
+msgstr ""
+
+#: element/button.php:382 element/text.php:340
+msgid "Overline"
+msgstr ""
+
+#: element/button.php:383 element/text.php:341
+msgid "Line-Through"
+msgstr ""
+
+#: element/button.php:384 element/text.php:342
+msgid "Underline"
+msgstr ""
+
+#: element/button.php:390 element/text.php:348
+msgid "Text Font Style"
+msgstr ""
+
+#: element/button.php:397 element/text.php:355
+msgid "Normal"
+msgstr ""
+
+#: element/button.php:398 element/text.php:356
+msgid "italic"
+msgstr ""
+
+#: element/button.php:399 element/text.php:357
+msgid "oblique"
+msgstr ""
+
+#: element/button.php:405 element/text.php:363 element/text_block.php:158
+msgid "Text Transform"
+msgstr ""
+
+#: element/button.php:412 element/text.php:370 element/text_block.php:165
+msgid "Uppercase"
+msgstr ""
+
+#: element/button.php:413 element/text.php:371 element/text_block.php:166
+msgid "Lowercase"
+msgstr ""
+
+#: element/button.php:414 element/text.php:372 element/text_block.php:167
+msgid "Capitalize"
+msgstr ""
+
+#: element/button.php:423 element/icon.php:84 element/text.php:380
+#: element/text_block.php:174
+msgid "Text Font Size in Desktop"
+msgstr ""
+
+#: element/button.php:425 element/icon.php:86 element/text.php:382
+#: element/text_block.php:176
+msgid ""
+"You can select Font Size in Desktop Devices,Resolution max 1199px and min "
+"992px"
+msgstr ""
+
+#: element/button.php:427 element/button.php:452 element/button.php:477
+#: element/button.php:502
+msgid "Font Size Resolution"
+msgstr ""
+
+#: element/button.php:448 element/icon.php:109 element/text.php:405
+#: element/text_block.php:199
+msgid "Text Font Size in Tablet"
+msgstr ""
+
+#: element/button.php:450 element/icon.php:111 element/text.php:407
+#: element/text_block.php:201
+msgid ""
+"You can select Font Size in Tablet Devices,Resolution max 991px and min 768px"
+msgstr ""
+
+#: element/button.php:473 element/icon.php:134 element/text.php:430
+#: element/text_block.php:224
+msgid "Text Font Size in Phablet"
+msgstr ""
+
+#: element/button.php:475 element/icon.php:136 element/text.php:432
+#: element/text_block.php:226
+msgid ""
+"You can select Font Size in Phablet Devices,Resolution max 767px and min "
+"501px"
+msgstr ""
+
+#: element/button.php:499 element/icon.php:160 element/text.php:456
+#: element/text_block.php:250
+msgid "Text Font Size in Phone"
+msgstr ""
+
+#: element/button.php:501 element/icon.php:162 element/text.php:458
+#: element/text_block.php:252
+msgid "You can select Font Size in Phone Devices,Resolution max 500px"
+msgstr ""
+
+#: element/icon.php:33
+msgid "Center"
+msgstr ""
+
+#: element/icon.php:48
+msgid "Icon Shadow"
+msgstr ""
+
+#: element/image.php:9
+msgid "Image"
+msgstr ""
+
+#: element/image.php:18
+msgid "Upload Image"
+msgstr ""
+
+#: element/text.php:20
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: element/text.php:77 element/text.php:154
+msgid "Text Style"
+msgstr ""
+
+#: element/text.php:109 element/text_block.php:38
+msgid "Text Shadow"
+msgstr ""
+
+#: element/text.php:163
+msgid "on Hover Text Style"
+msgstr ""
+
+#: element/text.php:222
+msgid "Hover Text Style"
+msgstr ""
+
+#: element/text.php:309 element/text_block.php:134
+msgid "Text Font Line Height"
+msgstr ""
+
+#: element/text.php:384 element/text.php:409 element/text.php:434
+#: element/text.php:459 element/text_block.php:178 element/text_block.php:203
+#: element/text_block.php:228 element/text_block.php:253
+msgid "Font Size Responsive"
+msgstr ""
+
+#: element/text_block.php:8
+msgid "Text Block"
+msgstr ""
+
+#: element/text_block.php:16
+msgid "Lorem ipsum dolor sit amet consectetuer adipiscing elit "
+msgstr ""
+
+#: element/text_block.php:24
+msgid "Padding around the entire ,Default \"0\""
+msgstr ""
+
+#: framework/builder-column.php:28
+msgid "Add New Element"
+msgstr ""
+
+#: framework/builder-column.php:29 framework/builder-element.php:181
+msgid "Slider Element"
+msgstr ""
+
+#: framework/builder-element.php:218 framework/builder-element.php:289
+#: framework/builder-element.php:338 framework/builder-element.php:388
+msgid "General"
+msgstr ""
+
+#: framework/builder-element.php:243
+msgid "Options"
+msgstr ""
+
+#: framework/builder-element.php:315
+msgid "Cancel"
+msgstr ""
+
+#: framework/builder-element.php:316
+msgid "Update"
+msgstr ""
+
+#: framework/builder-element.php:354
+msgid "Add Element"
+msgstr ""
+
+#: framework/builder-element.php:410
+msgid "Add"
+msgstr ""
+
+#: framework/builder.php:15
+msgid "Page Builder"
+msgstr ""
+
+#: framework/builder.php:34
+msgid "Full Screen"
+msgstr ""
+
+#: framework/builder.php:35
+msgid "Close Full Screen"
+msgstr ""
+
+#: framework/builder.php:36 framework/builder.php:37
+msgid "Full Slider"
+msgstr ""
+
+#: framework/builder.php:36
+msgid "Save Full Template to the library"
+msgstr ""
+
+#: framework/builder.php:37
+msgid "Add Full Template From Library"
+msgstr ""
+
+#: framework/builder.php:88 framework/slider-metabox.php:28
+msgid "Auto"
+msgstr ""
+
+#: framework/builder.php:96
+msgid "Full Size"
+msgstr ""
+
+#: framework/builder.php:97
+msgid "Desktop"
+msgstr ""
+
+#: framework/builder.php:98
+msgid "Tablet"
+msgstr ""
+
+#: framework/builder.php:99
+msgid "Phablet"
+msgstr ""
+
+#: framework/builder.php:100
+msgid "Phone"
+msgstr ""
+
+#: framework/builder.php:116
+msgid "Play"
+msgstr ""
+
+#: framework/builder.php:122
+msgid "Element Options:"
+msgstr ""
+
+#: framework/builder.php:124
+msgid "Top:"
+msgstr ""
+
+#: framework/builder.php:127
+msgid "Right:"
+msgstr ""
+
+#: framework/builder.php:127
+msgid "Left:"
+msgstr ""
+
+#: framework/builder.php:131
+msgid "Width:"
+msgstr ""
+
+#: framework/builder.php:140
+msgid "Height:"
+msgstr ""
+
+#: framework/builder.php:149
+msgid "Display:"
+msgstr ""
+
+#: framework/builder.php:152
+msgid "Show"
+msgstr ""
+
+#: framework/builder.php:153
+msgid "Hide"
+msgstr ""
+
+#: framework/perview.php:171
+msgid "Width"
+msgstr ""
+
+#: framework/slider-metabox.php:38
+msgid "radial  ○"
+msgstr ""
+
+#: framework/slider-metabox.php:42
+msgid "1000px"
+msgstr ""
+
+#: framework/slider-metabox.php:43
+msgid "1100px"
+msgstr ""
+
+#: framework/slider-metabox.php:44
+msgid "1200px"
+msgstr ""
+
+#: framework/slider-metabox.php:45
+msgid "1300px"
+msgstr ""
+
+#: framework/slider-metabox.php:46
+msgid "1400px"
+msgstr ""
+
+#: framework/slider-metabox.php:47
+msgid "1500px"
+msgstr ""
+
+#: framework/slider-metabox.php:48
+msgid "1600px"
+msgstr ""
+
+#: framework/slider-metabox.php:49
+msgid "1700px"
+msgstr ""
+
+#: framework/slider-metabox.php:50
+msgid "1800px"
+msgstr ""
+
+#: framework/slider-metabox.php:51
+msgid "1920px"
+msgstr ""
+
+#: framework/slider-metabox.php:66
+msgid "Responsive Mode"
+msgstr ""
+
+#: framework/slider-metabox.php:90
+msgid "Add the link of the Slide"
+msgstr ""
+
+#: framework/slider-metabox.php:96
+msgid "Max Width Slider Details"
+msgstr ""
+
+#: framework/slider-metabox.php:149
+msgid "Slider Background Image"
+msgstr ""
+
+#: framework/slider-metabox.php:151
+msgid "Choose Image"
+msgstr ""
+
+#: framework/slider-metabox.php:151
+msgid "Use This Image"
+msgstr ""
+
+#: framework/slider-metabox.php:151
+msgid "Upload"
+msgstr ""
+
+#: framework/slider-metabox.php:161
+msgid "Remove Image"
+msgstr ""
+
+#: framework/slider-metabox.php:171
+msgid "Transform Background"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom And Builder Slider"
+msgstr ""
+
+#. Author of the plugin
+msgid "Saoshyant-Theme"
+msgstr ""
+
+msgid "Icon Alignment"
+msgstr ""
